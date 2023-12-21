@@ -1,2 +1,0 @@
-# REDUX CALCULTOR
-
